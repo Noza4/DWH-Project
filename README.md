@@ -61,7 +61,7 @@
 | **ენა / ETL** | Python 3.11, Pandas |
 | **ბაზა** | Postgres, psycopg2 |
 | **საწყობი** | AWS RDS (postgres) |
-| **ღრუბელი** | AWS RDS (postgres) |
+| **ღრუბელი** | AWS |
 | **ორკესტრაცია** | Apache Airflow |
 | **ვიზუალიზაცია** | Power BI |
 
